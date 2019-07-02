@@ -29,8 +29,15 @@
   - Check-in and Push the changes to guess_my_primer.py
   - Check-in and Push a screenshot of you playing the Guess A Primer game.
   - Place the screenshot in this Readme.md file so it properly displays.
+
+![Primer Game ScreenShot](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-hhoffman-ops/blob/master/Module02/NumberGame.JPG)
+
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
+	References used: [GitHub](https://guides.github.com/features/mastering-markdown/)
+
 3. Add a link to the repo to BBLearn as your "Assignment".
+
+[BBLearn Link](https://learn.dcollege.net/webapps/blackboard/content/listContent.jsp?course_id=_236864_1&content_id=_7835164_1&mode=reset)
 
 ### Guess A Primer
 
