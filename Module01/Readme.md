@@ -20,7 +20,7 @@
    - Complete the [Hello World App](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world) and save your file as `hello_world.py` in the `Module01` directory.
    - Take a screenshot of the working code.
 
-![Hello World Screen Shot](hello world py.png)
+![Hello World Screen Shot](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-hhoffman-ops/blob/master/Module01/hello%20world%20py.PNG)
 
 
 
