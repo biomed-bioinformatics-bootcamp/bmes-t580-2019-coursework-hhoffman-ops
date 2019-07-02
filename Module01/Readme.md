@@ -6,7 +6,7 @@
  - Create user account
  - Signup for the correct Git Classroom
  - Add your name and github handle to the credits section of the main Readme
- - CHnGE this LINE through GtHub to fx typoz
+ - Change this line through GitHub to fix typos
    - Commit directly to the `master` branch   
 
 ### Installing and setting up your Python Environment
@@ -19,6 +19,12 @@
    
    - Complete the [Hello World App](https://github.com/biomed-bioinformatics-bootcamp/python-jumpstart-course-demos/tree/master/apps/01_hello_world) and save your file as `hello_world.py` in the `Module01` directory.
    - Take a screenshot of the working code.
+
+
+
+
+
+
    - Adjust the `Module01\Readme.md` so it properly displays your screenshot.  
    - Upload a screenshot of the running Hello World program to BBLearn for your "Assignment".
 
