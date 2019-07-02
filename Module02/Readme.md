@@ -37,8 +37,6 @@
 
 3. Add a link to the repo to BBLearn as your "Assignment".
 
-[BBLearn Link](https://learn.dcollege.net/webapps/blackboard/content/listContent.jsp?course_id=_236864_1&content_id=_7835164_1&mode=reset)
-
 ### Guess A Primer
 
 Dozens of molecular biology techniques use oligigonucleotide primers as fundemental tools to answer bioligical questions.
