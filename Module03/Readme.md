@@ -1,4 +1,4 @@
-# Module 3: Fun with dates
+﻿# Module 3: Fun with dates
 
 
 ## Learning Objectives:
@@ -30,6 +30,10 @@
   - Place the screenshot in this Readme.md file so it properly displays.
   - Add links to any resources used. This includes results of google-searches, Stack-Overflow posts, blog-posts, etc.
 4. Add a link to the repo to BBLearn as your "Assignment".
+
+![Pregnancy Wheel ScreenShot](https://github.com/biomed-bioinformatics-bootcamp/bmes-t580-2019-coursework-hhoffman-ops/blob/master/Module03/PregnancyWheel.JPG)
+
+References used: [Python Software Foundation](https://docs.python.org/2/library/datetime.html)
 
 ### Pregnancy Wheel
 
